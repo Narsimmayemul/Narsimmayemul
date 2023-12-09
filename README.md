@@ -34,12 +34,16 @@
 
 
 ## CONNECT WITH ME:
-<p align="left">
-<a href="https://www.linkedin.com/in/narsimma-yemul-7653781b5/" target="https://www.linkedin.com/in/narsimma-yemul-7653781b5/"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="" /></a>
-</p>
+
 <p>
 <button><a href="https://65746bdcce777565cedb55f9--verdant-chimera-94ff1a.netlify.app/" target="https://65746bdcce777565cedb55f9--verdant-chimera-94ff1a.netlify.app/"></a></button>
 </p>
+
+
+<p align="left">
+<a href="https://www.linkedin.com/in/narsimma-yemul-7653781b5/" target="https://www.linkedin.com/in/narsimma-yemul-7653781b5/"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="" /></a>
+</p>
+
 ## ✅ Github Stats :
 
 <div align="center" style="display: flex; flex-wrap: wrap;">
