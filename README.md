@@ -44,6 +44,9 @@
 <a href="https://www.linkedin.com/in/narsimma-yemul-7653781b5/" target="https://www.linkedin.com/in/narsimma-yemul-7653781b5/"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="" /></a>
 </p>
 
+<p align="left">
+<a href="https://narsimmayemul.github.io/" target="https://narsimmayemul.github.io/"><img align="center" width="40px" src="https://images.pexels.com/photos/14936128/pexels-photo-14936128.jpeg?cs=srgb&dl=pexels-ann-h-14936128.jpg&fm=jpg" alt="Portfolio"/></a>
+</p>
 
 ## ✅ Github Stats :
 
