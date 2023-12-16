@@ -44,6 +44,10 @@
 <a href="https://www.linkedin.com/in/narsimma-yemul-7653781b5/" target="https://www.linkedin.com/in/narsimma-yemul-7653781b5/"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="" /></a>
 </p>
 
+<p align="left">
+<a href="https://www.linkedin.com/in/narsimma-yemul-7653781b5/" target="https://www.linkedin.com/in/narsimma-yemul-7653781b5/"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="" /></a>
+</p>
+
 ## ✅ Github Stats :
 
 <div align="center" style="display: flex; flex-wrap: wrap;">
