@@ -45,7 +45,7 @@
 </p>
 
 <p align="left">
-<a href="https://narsimmayemul.github.io/" target="https://narsimmayemul.github.io/"><img align="center"  src="https://images.pexels.com/photos/14936128/pexels-photo-14936128.jpeg?cs=srgb&dl=pexels-ann-h-14936128.jpg&fm=jpg" alt="Portfolio"/></a>
+<a href="https://narsimmayemul.github.io/" target="https://narsimmayemul.github.io/"><img width="100px" height="40px" align="center"  src="https://images.pexels.com/photos/14936128/pexels-photo-14936128.jpeg?cs=srgb&dl=pexels-ann-h-14936128.jpg&fm=jpg" alt="Portfolio"/></a>
 </p>
 
 ## ✅ Github Stats :
