@@ -54,7 +54,7 @@
 
 <img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=Narsimmayemul&theme=neon&border_radius=2.7&show_icons=true" alt="Narsimma Yemul" />
   
-<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Narsimmayemul&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D" alt="Narsimma Yemul" />
+
   
 <img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narsimmayemul&theme=neon&border_radius=2.7" alt="Narsimma Yemul" />
   
